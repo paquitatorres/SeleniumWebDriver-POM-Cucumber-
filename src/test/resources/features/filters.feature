@@ -7,6 +7,3 @@ Feature: Filtrado y ordenamiento de productos
     Then los productos se muestran ordenados de mayor a menor precio
 
 
-  Scenario: Filtrar productos por precio máximo después de una búsqueda
-    Given el usuario está en la página principal
-    When busca el producto "hammer"

@@ -20,11 +20,6 @@ public class HomePage{
     private By cardOfTool = By.cssSelector("[data-test^='product-']");
     private By addToCartBtn= By.id("btn-add-to-cart");;
 
-    private By sortDropdown = By.cssSelector("[data-test='sort']");
-
-    private By priceValue =  By.cssSelector("[data-test='product-price']");
-
-
 
 
     public HomePage(WebDriver driver){
@@ -39,55 +34,21 @@ public class HomePage{
         wait.until(ExpectedConditions.visibilityOfElementLocated(searchBtn)).click();
     }
 
-
     public void selectProduct(){
         wait.until(ExpectedConditions.elementToBeClickable(cardOfTool)).click();
     }
-
 
     public void addProduct(){
         wait.until(ExpectedConditions.elementToBeClickable(addToCartBtn)).click();
     }
 
-    public void sortPriceHighestToLowest() {
-            WebElement dropdown = wait.until(ExpectedConditions.elementToBeClickable(sortDropdown));
-
-            Select select = new Select(dropdown);
-            select.selectByVisibleText("Price (High - Low)");
-
-            wait.until(ExpectedConditions.attributeToBe(sortDropdown, "value", "price,desc"));
-        }
-
-
-
-    public void validateDescendingOrder(){
-        List<WebElement> preciosWeb = driver.findElements(priceValue);
-
-
-        List<Double> precios = new ArrayList<>();
-
-        for (WebElement precio : preciosWeb) {
-            String texto = precio.getText(); // "$120.50"
-
-            texto = texto.replace("$", "").trim(); // "120.50"
-
-            double valor = Double.parseDouble(texto);
-            precios.add(valor);
-        }
-
-        for (int i = 0; i < precios.size() - 1; i++) {
-            if (precios.get(i) < precios.get(i + 1)) {
-                throw new AssertionError("Los precios NO están en orden descendente");
-            }
-        }
-
     }
 
 
 
 
 
-}
+
 
 
 

@@ -2,6 +2,7 @@ package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
@@ -13,11 +14,13 @@ public class Menu {
         private By signinBtn = By.cssSelector("[data-test='nav-sign-in']");
         private By cartBtn = By.cssSelector("[data-test='nav-cart']");
         private By categoriesDropdown = By.cssSelector("[data-test='nav-categories']");
-        private By handToolCategory= By.cssSelector("[data-test='nav-hand-tools']");
+        private By dropdownMenu = By.className("dropdown-menu.show");
+        private By handToolCategory   = By.cssSelector("[data-test='nav-hand-tools']");
 
     public Menu(WebDriver driver) {
         this.driver = driver;
         this.wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
     }
 
     public void goToSignIn() {
@@ -30,14 +33,36 @@ public class Menu {
     }
 
 
-    public void selectCategory(){
-        wait.until(ExpectedConditions.visibilityOfElementLocated(categoriesDropdown)).click();
+    public void selectCategory() {
+        wait.until(ExpectedConditions.elementToBeClickable(categoriesDropdown)).click();
     }
 
-    public void selectHandToolsInCategory(){
-        wait.until(ExpectedConditions.visibilityOfElementLocated(handToolCategory)).click();
+    public void selectHandToolsInCategory() {
+        // elementToBeClickable garantiza que el link del dropdown sea interactuable
+        wait.until(ExpectedConditions.elementToBeClickable(handToolCategory)).click();
     }
 
+}
+    //public void selectHandToolsInCategory() {
+        // 1. Verificar que el dropdown esté visible
+    //  WebElement dropdown = wait.until(
+    //          ExpectedConditions.visibilityOfElementLocated(
+    //                  By.cssSelector(".dropdown-menu.show")
+    //          )
+    //  );
+    //  System.out.println("Dropdown visible: " + dropdown.isDisplayed());
 
-    }
+        // 2. Buscar el elemento dentro del dropdown
+    //  WebElement handTools = wait.until(
+    //          ExpectedConditions.elementToBeClickable(handToolCategory)
+    //  );
+    //  System.out.println("Hand Tools encontrado: " + handTools.getText());
+//
+    //       handTools.click();
+    //   }
+
+
+
+//}
+
 

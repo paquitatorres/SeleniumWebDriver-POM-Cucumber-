@@ -45,8 +45,5 @@ public class LoginPage {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(profileName)).getText();
     }
 
-
-
-
 }
 
