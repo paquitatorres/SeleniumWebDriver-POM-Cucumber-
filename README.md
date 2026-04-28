@@ -82,6 +82,11 @@ This project generates visual test reports with Allure.
 mvn test
 allure serve target/allure-results
 ```
+<img width="1334" height="625" alt="image" src="https://github.com/user-attachments/assets/7fbfce49-d9ca-4703-80dd-f93fcc8a3eb4" />
+
+
+
+<img width="769" height="617" alt="image" src="https://github.com/user-attachments/assets/1062e5b1-b11b-4724-8564-f6601248fcdf" />
 
 > Allure must be installed. See [Allure CLI installation](https://allurereport.org/docs/install/).
 
