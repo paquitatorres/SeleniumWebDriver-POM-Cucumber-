@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"","Filtrado y ordenamiento de productos","Filtrar por categoría y ordenar por precio descendente","0","1","0","0","0"
+"","Validación del flujo de compra","Compra exitosa con usuario registrado","0","1","0","0","0"
+"","Autenticación de usuario","Inicio de sesión exitoso con credenciales válidas","0","1","0","0","0"
+"","Autenticación de usuario","Error al iniciar sesión con credenciales inválidas","0","2","0","0","0"

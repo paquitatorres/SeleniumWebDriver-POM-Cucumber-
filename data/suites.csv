@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Tue May 05 12:07:13 UTC 2026","Tue May 05 12:07:13 UTC 2026","203","","Filtrado y ordenamiento de productos","","Filtrar por categoría y ordenar por precio descendente","","Filtrar por categoría y ordenar por precio descendente",""
+"broken","Tue May 05 12:07:12 UTC 2026","Tue May 05 12:07:13 UTC 2026","1153","","Validación del flujo de compra","","Compra exitosa con usuario registrado","","Compra exitosa con usuario registrado",""
+"broken","Tue May 05 12:07:13 UTC 2026","Tue May 05 12:07:13 UTC 2026","203","","Autenticación de usuario","","Inicio de sesión exitoso con credenciales válidas","","Inicio de sesión exitoso con credenciales válidas",""
+"broken","Tue May 05 12:07:13 UTC 2026","Tue May 05 12:07:14 UTC 2026","199","","Autenticación de usuario","","Error al iniciar sesión con credenciales inválidas","","Error al iniciar sesión con credenciales inválidas",""
+"broken","Tue May 05 12:07:13 UTC 2026","Tue May 05 12:07:13 UTC 2026","197","","Autenticación de usuario","","Error al iniciar sesión con credenciales inválidas","","Error al iniciar sesión con credenciales inválidas",""

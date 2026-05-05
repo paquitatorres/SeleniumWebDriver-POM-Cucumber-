@@ -1,0 +1,51 @@
+[ {
+  "uid" : "370bccee9c7d9bbc",
+  "name" : "Filtrar por categoría y ordenar por precio descendente",
+  "time" : {
+    "start" : 1777982833357,
+    "stop" : 1777982833560,
+    "duration" : 203
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9cfa9d755f2cf490",
+  "name" : "Compra exitosa con usuario registrado",
+  "time" : {
+    "start" : 1777982832188,
+    "stop" : 1777982833341,
+    "duration" : 1153
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db259bc397299794",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1777982833567,
+    "stop" : 1777982833770,
+    "duration" : 203
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1deb89a65157e0b1",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1777982833975,
+    "stop" : 1777982834174,
+    "duration" : 199
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9eb4c1e06ab93fd0",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1777982833774,
+    "stop" : 1777982833971,
+    "duration" : 197
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
