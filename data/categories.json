@@ -4,74 +4,74 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmeorf1', ip: '10.1.1.164'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1010-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "name" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmrw5os', ip: '10.1.0.215'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1013-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
       "children" : [ {
         "name" : "Compra exitosa con usuario registrado",
-        "uid" : "8651f616c1f82da9",
-        "parentUid" : "b040559f060ed53916673f5f49ec1329",
+        "uid" : "cb82f71d5879c69a",
+        "parentUid" : "837bebeecf451a97ceb3c99e703b1b79",
         "status" : "broken",
         "time" : {
-          "start" : 1778591336516,
-          "stop" : 1778591338043,
-          "duration" : 1527
+          "start" : 1779199028248,
+          "stop" : 1779199033704,
+          "duration" : 5456
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
       }, {
         "name" : "Filtrar por categoría y ordenar por precio descendente",
-        "uid" : "986ded31e3fcd548",
-        "parentUid" : "b040559f060ed53916673f5f49ec1329",
+        "uid" : "20c89ea6bbc9bbee",
+        "parentUid" : "837bebeecf451a97ceb3c99e703b1b79",
         "status" : "broken",
         "time" : {
-          "start" : 1778591338057,
-          "stop" : 1778591338265,
-          "duration" : 208
+          "start" : 1779199033722,
+          "stop" : 1779199033925,
+          "duration" : 203
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Inicio de sesión exitoso con credenciales válidas",
-        "uid" : "2ea7b9c4e71cc6b2",
-        "parentUid" : "b040559f060ed53916673f5f49ec1329",
+        "uid" : "f2eb26777091ad79",
+        "parentUid" : "837bebeecf451a97ceb3c99e703b1b79",
         "status" : "broken",
         "time" : {
-          "start" : 1778591338272,
-          "stop" : 1778591338482,
-          "duration" : 210
+          "start" : 1779199033932,
+          "stop" : 1779199034131,
+          "duration" : 199
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "e4f95aa1f6f2302f",
-        "parentUid" : "b040559f060ed53916673f5f49ec1329",
+        "uid" : "8c3041274f00c7af",
+        "parentUid" : "837bebeecf451a97ceb3c99e703b1b79",
         "status" : "broken",
         "time" : {
-          "start" : 1778591338487,
-          "stop" : 1778591338697,
-          "duration" : 210
+          "start" : 1779199034136,
+          "stop" : 1779199034334,
+          "duration" : 198
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "9a3ba92dfce7d891",
-        "parentUid" : "b040559f060ed53916673f5f49ec1329",
+        "uid" : "da5811b9f86609dc",
+        "parentUid" : "837bebeecf451a97ceb3c99e703b1b79",
         "status" : "broken",
         "time" : {
-          "start" : 1778591338701,
-          "stop" : 1778591338906,
-          "duration" : 205
+          "start" : 1779199034338,
+          "stop" : 1779199034534,
+          "duration" : 196
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
       } ],
-      "uid" : "b040559f060ed53916673f5f49ec1329"
+      "uid" : "837bebeecf451a97ceb3c99e703b1b79"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ]

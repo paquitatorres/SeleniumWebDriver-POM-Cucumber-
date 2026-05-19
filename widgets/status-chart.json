@@ -1,50 +1,50 @@
 [ {
-  "uid" : "e4f95aa1f6f2302f",
+  "uid" : "8c3041274f00c7af",
   "name" : "Error al iniciar sesión con credenciales inválidas",
   "time" : {
-    "start" : 1778591338487,
-    "stop" : 1778591338697,
-    "duration" : 210
+    "start" : 1779199034136,
+    "stop" : 1779199034334,
+    "duration" : 198
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "986ded31e3fcd548",
+  "uid" : "20c89ea6bbc9bbee",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1778591338057,
-    "stop" : 1778591338265,
-    "duration" : 208
+    "start" : 1779199033722,
+    "stop" : 1779199033925,
+    "duration" : 203
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "2ea7b9c4e71cc6b2",
-  "name" : "Inicio de sesión exitoso con credenciales válidas",
-  "time" : {
-    "start" : 1778591338272,
-    "stop" : 1778591338482,
-    "duration" : 210
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "8651f616c1f82da9",
-  "name" : "Compra exitosa con usuario registrado",
-  "time" : {
-    "start" : 1778591336516,
-    "stop" : 1778591338043,
-    "duration" : 1527
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "9a3ba92dfce7d891",
+  "uid" : "da5811b9f86609dc",
   "name" : "Error al iniciar sesión con credenciales inválidas",
   "time" : {
-    "start" : 1778591338701,
-    "stop" : 1778591338906,
-    "duration" : 205
+    "start" : 1779199034338,
+    "stop" : 1779199034534,
+    "duration" : 196
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cb82f71d5879c69a",
+  "name" : "Compra exitosa con usuario registrado",
+  "time" : {
+    "start" : 1779199028248,
+    "stop" : 1779199033704,
+    "duration" : 5456
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f2eb26777091ad79",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1779199033932,
+    "stop" : 1779199034131,
+    "duration" : 199
   },
   "status" : "broken",
   "severity" : "normal"
