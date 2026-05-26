@@ -7,13 +7,13 @@
       "name" : "Compra exitosa con usuario registrado",
       "children" : [ {
         "name" : "Compra exitosa con usuario registrado",
-        "uid" : "cb82f71d5879c69a",
+        "uid" : "b66be122bbc3695d",
         "parentUid" : "a428f068f44727208f267afdd9a816cf",
         "status" : "broken",
         "time" : {
-          "start" : 1779199028248,
-          "stop" : 1779199033704,
-          "duration" : 5456
+          "start" : 1779803850741,
+          "stop" : 1779803852854,
+          "duration" : 2113
         },
         "flaky" : false,
         "newFailed" : false,
@@ -28,13 +28,13 @@
       "name" : "Filtrar por categoría y ordenar por precio descendente",
       "children" : [ {
         "name" : "Filtrar por categoría y ordenar por precio descendente",
-        "uid" : "20c89ea6bbc9bbee",
+        "uid" : "8022682feaacd069",
         "parentUid" : "ce47b71ff91b6c79946383b141de99ce",
         "status" : "broken",
         "time" : {
-          "start" : 1779199033722,
-          "stop" : 1779199033925,
-          "duration" : 203
+          "start" : 1779803852872,
+          "stop" : 1779803853072,
+          "duration" : 200
         },
         "flaky" : false,
         "newFailed" : false,
@@ -49,13 +49,13 @@
       "name" : "Inicio de sesión exitoso con credenciales válidas",
       "children" : [ {
         "name" : "Inicio de sesión exitoso con credenciales válidas",
-        "uid" : "f2eb26777091ad79",
+        "uid" : "a9134e64e3527f7b",
         "parentUid" : "01504d2bf023785865414a8220a397e4",
         "status" : "broken",
         "time" : {
-          "start" : 1779199033932,
-          "stop" : 1779199034131,
-          "duration" : 199
+          "start" : 1779803853080,
+          "stop" : 1779803853275,
+          "duration" : 195
         },
         "flaky" : false,
         "newFailed" : false,
@@ -66,26 +66,26 @@
       "name" : "Error al iniciar sesión con credenciales inválidas",
       "children" : [ {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "8c3041274f00c7af",
+        "uid" : "3c69a3cd217bd062",
         "parentUid" : "58348ac87d204c7a64e6df83af417d18",
         "status" : "broken",
         "time" : {
-          "start" : 1779199034136,
-          "stop" : 1779199034334,
-          "duration" : 198
+          "start" : 1779803853280,
+          "stop" : 1779803853473,
+          "duration" : 193
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "da5811b9f86609dc",
+        "uid" : "2d64370d24fd4bb4",
         "parentUid" : "58348ac87d204c7a64e6df83af417d18",
         "status" : "broken",
         "time" : {
-          "start" : 1779199034338,
-          "stop" : 1779199034534,
-          "duration" : 196
+          "start" : 1779803853478,
+          "stop" : 1779803853666,
+          "duration" : 188
         },
         "flaky" : false,
         "newFailed" : false,
