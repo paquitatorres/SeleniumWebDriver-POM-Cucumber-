@@ -1,50 +1,50 @@
 [ {
-  "uid" : "2d64370d24fd4bb4",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1779803853478,
-    "stop" : 1779803853666,
-    "duration" : 188
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "8022682feaacd069",
+  "uid" : "f86f4e428046565d",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1779803852872,
-    "stop" : 1779803853072,
-    "duration" : 200
+    "start" : 1780412319852,
+    "stop" : 1780412320037,
+    "duration" : 185
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "a9134e64e3527f7b",
-  "name" : "Inicio de sesión exitoso con credenciales válidas",
-  "time" : {
-    "start" : 1779803853080,
-    "stop" : 1779803853275,
-    "duration" : 195
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3c69a3cd217bd062",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1779803853280,
-    "stop" : 1779803853473,
-    "duration" : 193
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "b66be122bbc3695d",
+  "uid" : "d6bfb7d8b6743582",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1779803850741,
-    "stop" : 1779803852854,
-    "duration" : 2113
+    "start" : 1780412318264,
+    "stop" : 1780412319837,
+    "duration" : 1573
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b2a19cc3effabfcd",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1780412320416,
+    "stop" : 1780412320595,
+    "duration" : 179
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c0372e100bbd403f",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1780412320230,
+    "stop" : 1780412320412,
+    "duration" : 182
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b5155f69020e053d",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1780412320043,
+    "stop" : 1780412320226,
+    "duration" : 183
   },
   "status" : "broken",
   "severity" : "normal"
