@@ -1,50 +1,50 @@
 [ {
-  "uid" : "f86f4e428046565d",
-  "name" : "Filtrar por categoría y ordenar por precio descendente",
-  "time" : {
-    "start" : 1780412319852,
-    "stop" : 1780412320037,
-    "duration" : 185
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "d6bfb7d8b6743582",
-  "name" : "Compra exitosa con usuario registrado",
-  "time" : {
-    "start" : 1780412318264,
-    "stop" : 1780412319837,
-    "duration" : 1573
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "b2a19cc3effabfcd",
+  "uid" : "5e6c92c3a6673c04",
   "name" : "Error al iniciar sesión con credenciales inválidas",
   "time" : {
-    "start" : 1780412320416,
-    "stop" : 1780412320595,
-    "duration" : 179
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "c0372e100bbd403f",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1780412320230,
-    "stop" : 1780412320412,
+    "start" : 1781012793824,
+    "stop" : 1781012794006,
     "duration" : 182
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "b5155f69020e053d",
+  "uid" : "74d6b87106f54ee0",
+  "name" : "Filtrar por categoría y ordenar por precio descendente",
+  "time" : {
+    "start" : 1781012793441,
+    "stop" : 1781012793627,
+    "duration" : 186
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3ab5dc5e37677f63",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1781012794010,
+    "stop" : 1781012794190,
+    "duration" : 180
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "70b430a923b1488c",
+  "name" : "Compra exitosa con usuario registrado",
+  "time" : {
+    "start" : 1781012791594,
+    "stop" : 1781012793425,
+    "duration" : 1831
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a9c7ffe08649fc18",
   "name" : "Inicio de sesión exitoso con credenciales válidas",
   "time" : {
-    "start" : 1780412320043,
-    "stop" : 1780412320226,
-    "duration" : 183
+    "start" : 1781012793636,
+    "stop" : 1781012793820,
+    "duration" : 184
   },
   "status" : "broken",
   "severity" : "normal"
