@@ -1,50 +1,50 @@
 [ {
-  "uid" : "9b427856bcd2a67c",
+  "uid" : "4209d3ff9abb201c",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1782222282666,
+    "stop" : 1782222282862,
+    "duration" : 196
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a9bf263b5d5d73ec",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1781625679961,
-    "stop" : 1781625681600,
-    "duration" : 1639
+    "start" : 1782222280783,
+    "stop" : 1782222282029,
+    "duration" : 1246
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "146e8255f9a178a9",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1781625682017,
-    "stop" : 1781625682208,
-    "duration" : 191
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "19f89238241f909e",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1781625682212,
-    "stop" : 1781625682401,
-    "duration" : 189
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "2c14c0917a3f3e22",
-  "name" : "Inicio de sesión exitoso con credenciales válidas",
-  "time" : {
-    "start" : 1781625681818,
-    "stop" : 1781625682012,
-    "duration" : 194
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "978335354c221ced",
+  "uid" : "59891c0a6dd42e7e",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1781625681617,
-    "stop" : 1781625681811,
-    "duration" : 194
+    "start" : 1782222282047,
+    "stop" : 1782222282253,
+    "duration" : 206
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2b2b07b79935ce6f",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1782222282260,
+    "stop" : 1782222282461,
+    "duration" : 201
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c3e78e8141224354",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1782222282466,
+    "stop" : 1782222282662,
+    "duration" : 196
   },
   "status" : "broken",
   "severity" : "normal"

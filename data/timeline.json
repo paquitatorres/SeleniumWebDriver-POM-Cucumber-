@@ -2,77 +2,77 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "runnervm1li68",
+    "name" : "runnervm7b5n9",
     "children" : [ {
-      "name" : "3379@runnervm1li68.main(1)",
+      "name" : "3319@runnervm7b5n9.main(1)",
       "children" : [ {
         "name" : "Inicio de sesión exitoso con credenciales válidas",
-        "uid" : "2c14c0917a3f3e22",
-        "parentUid" : "ba25f9ee2de83f48cbaf80c451f2e159",
+        "uid" : "2b2b07b79935ce6f",
+        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
         "status" : "broken",
         "time" : {
-          "start" : 1781625681818,
-          "stop" : 1781625682012,
-          "duration" : 194
+          "start" : 1782222282260,
+          "stop" : 1782222282461,
+          "duration" : 201
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Filtrar por categoría y ordenar por precio descendente",
+        "uid" : "59891c0a6dd42e7e",
+        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1782222282047,
+          "stop" : 1782222282253,
+          "duration" : 206
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "146e8255f9a178a9",
-        "parentUid" : "ba25f9ee2de83f48cbaf80c451f2e159",
+        "uid" : "c3e78e8141224354",
+        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
         "status" : "broken",
         "time" : {
-          "start" : 1781625682017,
-          "stop" : 1781625682208,
-          "duration" : 191
+          "start" : 1782222282466,
+          "stop" : 1782222282662,
+          "duration" : 196
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
       }, {
-        "name" : "Filtrar por categoría y ordenar por precio descendente",
-        "uid" : "978335354c221ced",
-        "parentUid" : "ba25f9ee2de83f48cbaf80c451f2e159",
-        "status" : "broken",
-        "time" : {
-          "start" : 1781625681617,
-          "stop" : 1781625681811,
-          "duration" : 194
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "19f89238241f909e",
-        "parentUid" : "ba25f9ee2de83f48cbaf80c451f2e159",
+        "uid" : "4209d3ff9abb201c",
+        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
         "status" : "broken",
         "time" : {
-          "start" : 1781625682212,
-          "stop" : 1781625682401,
-          "duration" : 189
+          "start" : 1782222282666,
+          "stop" : 1782222282862,
+          "duration" : 196
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
       }, {
         "name" : "Compra exitosa con usuario registrado",
-        "uid" : "9b427856bcd2a67c",
-        "parentUid" : "ba25f9ee2de83f48cbaf80c451f2e159",
+        "uid" : "a9bf263b5d5d73ec",
+        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
         "status" : "broken",
         "time" : {
-          "start" : 1781625679961,
-          "stop" : 1781625681600,
-          "duration" : 1639
+          "start" : 1782222280783,
+          "stop" : 1782222282029,
+          "duration" : 1246
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
       } ],
-      "uid" : "ba25f9ee2de83f48cbaf80c451f2e159"
+      "uid" : "0b82b275032726aadd0e2e7ff8195eb7"
     } ],
-    "uid" : "24187d4101cf4a78f19a42c8e1aee630"
+    "uid" : "eb233044b44a8b6d6e01cbf8465a7dd8"
   } ]
 }
