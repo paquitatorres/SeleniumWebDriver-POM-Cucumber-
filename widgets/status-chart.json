@@ -1,50 +1,50 @@
 [ {
-  "uid" : "4209d3ff9abb201c",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1782222282666,
-    "stop" : 1782222282862,
-    "duration" : 196
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "c3e78e8141224354",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1782222282466,
-    "stop" : 1782222282662,
-    "duration" : 196
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "2b2b07b79935ce6f",
+  "uid" : "6468264cc26fca0d",
   "name" : "Inicio de sesión exitoso con credenciales válidas",
   "time" : {
-    "start" : 1782222282260,
-    "stop" : 1782222282461,
-    "duration" : 201
+    "start" : 1782825048869,
+    "stop" : 1782825049065,
+    "duration" : 196
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "59891c0a6dd42e7e",
+  "uid" : "98bf82651debeef1",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1782222282047,
-    "stop" : 1782222282253,
-    "duration" : 206
+    "start" : 1782825048664,
+    "stop" : 1782825048861,
+    "duration" : 197
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "a9bf263b5d5d73ec",
+  "uid" : "4a0057802b8023fd",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1782222280783,
-    "stop" : 1782222282029,
-    "duration" : 1246
+    "start" : 1782825046915,
+    "stop" : 1782825048645,
+    "duration" : 1730
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6db79c4677f6da35",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1782825049270,
+    "stop" : 1782825049462,
+    "duration" : 192
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e64db1e5cf0bff90",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1782825049071,
+    "stop" : 1782825049265,
+    "duration" : 194
   },
   "status" : "broken",
   "severity" : "normal"

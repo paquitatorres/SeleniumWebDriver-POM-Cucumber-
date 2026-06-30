@@ -2,77 +2,77 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "runnervm7b5n9",
+    "name" : "runnervmmklqx",
     "children" : [ {
-      "name" : "3319@runnervm7b5n9.main(1)",
+      "name" : "3331@runnervmmklqx.main(1)",
       "children" : [ {
         "name" : "Inicio de sesión exitoso con credenciales válidas",
-        "uid" : "2b2b07b79935ce6f",
-        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
+        "uid" : "6468264cc26fca0d",
+        "parentUid" : "c93d730a7379b6826daa4c361dc48737",
         "status" : "broken",
         "time" : {
-          "start" : 1782222282260,
-          "stop" : 1782222282461,
-          "duration" : 201
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Filtrar por categoría y ordenar por precio descendente",
-        "uid" : "59891c0a6dd42e7e",
-        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
-        "status" : "broken",
-        "time" : {
-          "start" : 1782222282047,
-          "stop" : 1782222282253,
-          "duration" : 206
+          "start" : 1782825048869,
+          "stop" : 1782825049065,
+          "duration" : 196
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "c3e78e8141224354",
-        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
+        "uid" : "e64db1e5cf0bff90",
+        "parentUid" : "c93d730a7379b6826daa4c361dc48737",
         "status" : "broken",
         "time" : {
-          "start" : 1782222282466,
-          "stop" : 1782222282662,
-          "duration" : 196
+          "start" : 1782825049071,
+          "stop" : 1782825049265,
+          "duration" : 194
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "4209d3ff9abb201c",
-        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
+        "uid" : "6db79c4677f6da35",
+        "parentUid" : "c93d730a7379b6826daa4c361dc48737",
         "status" : "broken",
         "time" : {
-          "start" : 1782222282666,
-          "stop" : 1782222282862,
-          "duration" : 196
+          "start" : 1782825049270,
+          "stop" : 1782825049462,
+          "duration" : 192
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
       }, {
-        "name" : "Compra exitosa con usuario registrado",
-        "uid" : "a9bf263b5d5d73ec",
-        "parentUid" : "0b82b275032726aadd0e2e7ff8195eb7",
+        "name" : "Filtrar por categoría y ordenar por precio descendente",
+        "uid" : "98bf82651debeef1",
+        "parentUid" : "c93d730a7379b6826daa4c361dc48737",
         "status" : "broken",
         "time" : {
-          "start" : 1782222280783,
-          "stop" : 1782222282029,
-          "duration" : 1246
+          "start" : 1782825048664,
+          "stop" : 1782825048861,
+          "duration" : 197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Compra exitosa con usuario registrado",
+        "uid" : "4a0057802b8023fd",
+        "parentUid" : "c93d730a7379b6826daa4c361dc48737",
+        "status" : "broken",
+        "time" : {
+          "start" : 1782825046915,
+          "stop" : 1782825048645,
+          "duration" : 1730
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
       } ],
-      "uid" : "0b82b275032726aadd0e2e7ff8195eb7"
+      "uid" : "c93d730a7379b6826daa4c361dc48737"
     } ],
-    "uid" : "eb233044b44a8b6d6e01cbf8465a7dd8"
+    "uid" : "082efc49cf0f590fd3d8474f01478539"
   } ]
 }
