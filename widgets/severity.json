@@ -1,50 +1,50 @@
 [ {
-  "uid" : "58fb20aefd3bd60d",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1785848739250,
-    "stop" : 1785848739456,
-    "duration" : 206
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "47e95a5d4fa4ffbf",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1785848739461,
-    "stop" : 1785848739663,
-    "duration" : 202
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "981327d3aa28ff5b",
-  "name" : "Inicio de sesión exitoso con credenciales válidas",
-  "time" : {
-    "start" : 1785848739040,
-    "stop" : 1785848739244,
-    "duration" : 204
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "73413d25a4d9b04d",
+  "uid" : "13881b1046f83a09",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1785848738829,
-    "stop" : 1785848739033,
+    "start" : 1786448948886,
+    "stop" : 1786448949090,
     "duration" : 204
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "814497c0e24b5431",
+  "uid" : "cc89ee8b2fa9a500",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1785848737209,
-    "stop" : 1785848738813,
-    "duration" : 1604
+    "start" : 1786448947560,
+    "stop" : 1786448948872,
+    "duration" : 1312
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2606f2a57aedd5",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1786448949304,
+    "stop" : 1786448949500,
+    "duration" : 196
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7f45336fe7ae31",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1786448949504,
+    "stop" : 1786448949699,
+    "duration" : 195
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3d0cc820c7e5c5c",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1786448949098,
+    "stop" : 1786448949297,
+    "duration" : 199
   },
   "status" : "broken",
   "severity" : "normal"
