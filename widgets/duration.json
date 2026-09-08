@@ -1,50 +1,50 @@
 [ {
-  "uid" : "bb65a34d68090c20",
+  "uid" : "85c78a9107d5117",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1788879669199,
+    "stop" : 1788879669401,
+    "duration" : 202
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9daa6767f15871e9",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1788276364462,
-    "stop" : 1788276364671,
-    "duration" : 209
+    "start" : 1788879668567,
+    "stop" : 1788879668772,
+    "duration" : 205
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "7b12928acc16ae45",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1788276365106,
-    "stop" : 1788276365312,
-    "duration" : 206
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3e22e3808b437fec",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1788276364894,
-    "stop" : 1788276365102,
-    "duration" : 208
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "c6a9d536fb96b58f",
+  "uid" : "b409c95bc7797a91",
   "name" : "Inicio de sesión exitoso con credenciales válidas",
   "time" : {
-    "start" : 1788276364680,
-    "stop" : 1788276364889,
-    "duration" : 209
+    "start" : 1788879668779,
+    "stop" : 1788879668986,
+    "duration" : 207
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "aeb8dc995ca7d3e9",
+  "uid" : "2ff2f3a685867717",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1788879668990,
+    "stop" : 1788879669195,
+    "duration" : 205
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6e20e4d893b74ff2",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1788276363182,
-    "stop" : 1788276364446,
-    "duration" : 1264
+    "start" : 1788879667628,
+    "stop" : 1788879668550,
+    "duration" : 922
   },
   "status" : "broken",
   "severity" : "normal"
