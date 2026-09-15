@@ -2,77 +2,77 @@
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
   "name" : "timeline",
   "children" : [ {
-    "name" : "runnervmejwal",
+    "name" : "runnervmlun5p",
     "children" : [ {
-      "name" : "3266@runnervmejwal.main(1)",
+      "name" : "3269@runnervmlun5p.main(1)",
       "children" : [ {
-        "name" : "Filtrar por categoría y ordenar por precio descendente",
-        "uid" : "9daa6767f15871e9",
-        "parentUid" : "b4c931ac7afde8def40a68ee7e005f9b",
+        "name" : "Compra exitosa con usuario registrado",
+        "uid" : "6cd6f8af3d599e24",
+        "parentUid" : "7a8c0781fe33c40efbc96c2b618754db",
         "status" : "broken",
         "time" : {
-          "start" : 1788879668567,
-          "stop" : 1788879668772,
-          "duration" : 205
+          "start" : 1789486196490,
+          "stop" : 1789486197558,
+          "duration" : 1068
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
+      }, {
+        "name" : "Filtrar por categoría y ordenar por precio descendente",
+        "uid" : "cd920579e7a7f7e4",
+        "parentUid" : "7a8c0781fe33c40efbc96c2b618754db",
+        "status" : "broken",
+        "time" : {
+          "start" : 1789486197578,
+          "stop" : 1789486197782,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Inicio de sesión exitoso con credenciales válidas",
+        "uid" : "87f85e13a16cb50e",
+        "parentUid" : "7a8c0781fe33c40efbc96c2b618754db",
+        "status" : "broken",
+        "time" : {
+          "start" : 1789486197791,
+          "stop" : 1789486197992,
+          "duration" : 201
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       }, {
         "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "85c78a9107d5117",
-        "parentUid" : "b4c931ac7afde8def40a68ee7e005f9b",
+        "uid" : "b3dd82485f2d7349",
+        "parentUid" : "7a8c0781fe33c40efbc96c2b618754db",
         "status" : "broken",
         "time" : {
-          "start" : 1788879669199,
-          "stop" : 1788879669401,
+          "start" : 1789486197997,
+          "stop" : 1789486198199,
           "duration" : 202
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
-      }, {
-        "name" : "Error al iniciar sesión con credenciales inválidas",
-        "uid" : "2ff2f3a685867717",
-        "parentUid" : "b4c931ac7afde8def40a68ee7e005f9b",
-        "status" : "broken",
-        "time" : {
-          "start" : 1788879668990,
-          "stop" : 1788879669195,
-          "duration" : 205
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
       }, {
-        "name" : "Inicio de sesión exitoso con credenciales válidas",
-        "uid" : "b409c95bc7797a91",
-        "parentUid" : "b4c931ac7afde8def40a68ee7e005f9b",
+        "name" : "Error al iniciar sesión con credenciales inválidas",
+        "uid" : "eb2b9790b4243aa1",
+        "parentUid" : "7a8c0781fe33c40efbc96c2b618754db",
         "status" : "broken",
         "time" : {
-          "start" : 1788879668779,
-          "stop" : 1788879668986,
-          "duration" : 207
+          "start" : 1789486198203,
+          "stop" : 1789486198401,
+          "duration" : 198
         },
         "flaky" : false,
         "newFailed" : false,
-        "parameters" : [ ]
-      }, {
-        "name" : "Compra exitosa con usuario registrado",
-        "uid" : "6e20e4d893b74ff2",
-        "parentUid" : "b4c931ac7afde8def40a68ee7e005f9b",
-        "status" : "broken",
-        "time" : {
-          "start" : 1788879667628,
-          "stop" : 1788879668550,
-          "duration" : 922
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
+        "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
       } ],
-      "uid" : "b4c931ac7afde8def40a68ee7e005f9b"
+      "uid" : "7a8c0781fe33c40efbc96c2b618754db"
     } ],
-    "uid" : "58c286ac1458f59a127a3ae1786b7f0c"
+    "uid" : "d34e9671cddbaf207f1f4e497e70dc0e"
   } ]
 }
