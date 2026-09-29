@@ -1,24 +1,4 @@
 {
-  "eb3a27381724e8b503bba9e5b9968af0" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "882eff374ec81d4a",
-      "status" : "broken",
-      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmlun5p', ip: '10.1.0.66'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
-      "time" : {
-        "start" : 1790090896612,
-        "stop" : 1790090896816,
-        "duration" : 204
-      }
-    } ]
-  },
   "248952050f05a3caf4dfb2b483315f8a" : {
     "statistic" : {
       "failed" : 0,
@@ -29,13 +9,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7be8ed1c8d3a3f56",
+      "uid" : "9523a4bb0ffd3c47",
       "status" : "broken",
-      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmlun5p', ip: '10.1.0.66'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmtr4k5', ip: '10.1.0.202'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
       "time" : {
-        "start" : 1790090897026,
-        "stop" : 1790090897224,
-        "duration" : 198
+        "start" : 1790700643943,
+        "stop" : 1790700644144,
+        "duration" : 201
+      }
+    } ]
+  },
+  "eb3a27381724e8b503bba9e5b9968af0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8a1553f4e37d1047",
+      "status" : "broken",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmtr4k5', ip: '10.1.0.202'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "time" : {
+        "start" : 1790700643521,
+        "stop" : 1790700643725,
+        "duration" : 204
       }
     } ]
   },
@@ -49,13 +49,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1d7e4af8bd263f09",
+      "uid" : "fb29e46b03bc61f5",
       "status" : "broken",
-      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmlun5p', ip: '10.1.0.66'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmtr4k5', ip: '10.1.0.202'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
       "time" : {
-        "start" : 1790090895510,
-        "stop" : 1790090896595,
-        "duration" : 1085
+        "start" : 1790700641800,
+        "stop" : 1790700643498,
+        "duration" : 1698
       }
     } ]
   },
@@ -69,13 +69,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "75a89fffe033d23a",
+      "uid" : "4bd60530052c2e75",
       "status" : "broken",
-      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmlun5p', ip: '10.1.0.66'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmtr4k5', ip: '10.1.0.202'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
       "time" : {
-        "start" : 1790090896823,
-        "stop" : 1790090897023,
-        "duration" : 200
+        "start" : 1790700643733,
+        "stop" : 1790700643938,
+        "duration" : 205
       }
     } ]
   },
@@ -89,13 +89,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "82f48fc8a16714dc",
+      "uid" : "f8a4cc364a8b67a1",
       "status" : "broken",
-      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmlun5p', ip: '10.1.0.66'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
+      "statusDetails" : "Could not start a new session. Response code 500. Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause. \nHost info: host: 'runnervmtr4k5', ip: '10.1.0.202'\nBuild info: version: '4.21.0', revision: '79ed462ef4'\nSystem info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.17.0-1022-azure', java.version: '22.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [--disable-notifications, --disable-popup-blocking, --remote-allow-origins=*], binary: /usr/bin/google-chrome, extensions: []}}]}]",
       "time" : {
-        "start" : 1790090897229,
-        "stop" : 1790090897426,
-        "duration" : 197
+        "start" : 1790700644149,
+        "stop" : 1790700644349,
+        "duration" : 200
       }
     } ]
   }
