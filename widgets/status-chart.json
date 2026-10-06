@@ -1,50 +1,50 @@
 [ {
-  "uid" : "f8a4cc364a8b67a1",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1790700644149,
-    "stop" : 1790700644349,
-    "duration" : 200
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "9523a4bb0ffd3c47",
-  "name" : "Error al iniciar sesión con credenciales inválidas",
-  "time" : {
-    "start" : 1790700643943,
-    "stop" : 1790700644144,
-    "duration" : 201
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "4bd60530052c2e75",
-  "name" : "Inicio de sesión exitoso con credenciales válidas",
-  "time" : {
-    "start" : 1790700643733,
-    "stop" : 1790700643938,
-    "duration" : 205
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "fb29e46b03bc61f5",
+  "uid" : "b5fe280781d671fc",
   "name" : "Compra exitosa con usuario registrado",
   "time" : {
-    "start" : 1790700641800,
-    "stop" : 1790700643498,
-    "duration" : 1698
+    "start" : 1791306373702,
+    "stop" : 1791306374755,
+    "duration" : 1053
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "8a1553f4e37d1047",
+  "uid" : "e911a6fa3d1fb275",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1791306375411,
+    "stop" : 1791306375608,
+    "duration" : 197
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3c83975a9b746cd6",
+  "name" : "Inicio de sesión exitoso con credenciales válidas",
+  "time" : {
+    "start" : 1791306374992,
+    "stop" : 1791306375196,
+    "duration" : 204
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b6a57e33f9e676c3",
   "name" : "Filtrar por categoría y ordenar por precio descendente",
   "time" : {
-    "start" : 1790700643521,
-    "stop" : 1790700643725,
+    "start" : 1791306374778,
+    "stop" : 1791306374982,
     "duration" : 204
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a1ad1a87722fcd1",
+  "name" : "Error al iniciar sesión con credenciales inválidas",
+  "time" : {
+    "start" : 1791306375201,
+    "stop" : 1791306375406,
+    "duration" : 205
   },
   "status" : "broken",
   "severity" : "normal"
