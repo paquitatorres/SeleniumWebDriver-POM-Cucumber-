@@ -1,0 +1,78 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "runnervmtai0g",
+    "children" : [ {
+      "name" : "3264@runnervmtai0g.main(1)",
+      "children" : [ {
+        "name" : "Error al iniciar sesión con credenciales inválidas",
+        "uid" : "3a4c82235301f4c",
+        "parentUid" : "2a84cc8b27cc0aa26b4ac61294b5e163",
+        "status" : "broken",
+        "time" : {
+          "start" : 1793117903475,
+          "stop" : 1793117903677,
+          "duration" : 202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "correo incorrecto", "welcome01", "fake@practicesoftwaretesting.com" ]
+      }, {
+        "name" : "Inicio de sesión exitoso con credenciales válidas",
+        "uid" : "cbd0e92e8f247051",
+        "parentUid" : "2a84cc8b27cc0aa26b4ac61294b5e163",
+        "status" : "broken",
+        "time" : {
+          "start" : 1793117903268,
+          "stop" : 1793117903471,
+          "duration" : 203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Error al iniciar sesión con credenciales inválidas",
+        "uid" : "189d73dcc5576ff9",
+        "parentUid" : "2a84cc8b27cc0aa26b4ac61294b5e163",
+        "status" : "broken",
+        "time" : {
+          "start" : 1793117903683,
+          "stop" : 1793117903882,
+          "duration" : 199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "contraseña incorrecta", "nahnahnahBatman!", "customer@practicesoftwaretesting.com" ]
+      }, {
+        "name" : "Compra exitosa con usuario registrado",
+        "uid" : "c95f7527cb68f534",
+        "parentUid" : "2a84cc8b27cc0aa26b4ac61294b5e163",
+        "status" : "broken",
+        "time" : {
+          "start" : 1793117900356,
+          "stop" : 1793117903039,
+          "duration" : 2683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "welcome01", "customer@practicesoftwaretesting.com", "Cash on Delivery", "72", "2000", "plier", "Cabildo" ]
+      }, {
+        "name" : "Filtrar por categoría y ordenar por precio descendente",
+        "uid" : "a6fa63b926e8ea6a",
+        "parentUid" : "2a84cc8b27cc0aa26b4ac61294b5e163",
+        "status" : "broken",
+        "time" : {
+          "start" : 1793117903057,
+          "stop" : 1793117903261,
+          "duration" : 204
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a84cc8b27cc0aa26b4ac61294b5e163"
+    } ],
+    "uid" : "c49841840c2cdd32de98a5641e7b141e"
+  } ]
+}
